@@ -15,7 +15,7 @@
 
 **Score rationale:**
 
-**Named attacker (from partner challenge): A modern ticketing SaaS + marketplace player offering cheaper organizer tools, better CRM, and AI-powered demand generation.**
+**Named attacker (from partner challenge):** A modern ticketing SaaS + marketplace player offering cheaper organizer tools, better CRM, and AI-powered demand generation.
 
 ---
 
@@ -24,7 +24,7 @@
 
 **Score rationale:**
 
-**Named attacker (from partner challenge):**
+**Named attacker (from partner challenge):** A larger ticketing or event-discovery platform with stronger personalization and cross-market demand data.
 
 ---
 
@@ -33,7 +33,7 @@
 
 **Score rationale:**
 
-**Named attacker (from partner challenge):**
+**Named attacker (from partner challenge):** Google/AI event discovery layer that recommends, compares, and routes users directly to the best ticket source.
 
 ---
 
