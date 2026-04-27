@@ -15,7 +15,7 @@
 
 **Score rationale:**
 
-**Named attacker (from partner challenge):**
+**Named attacker (from partner challenge): A modern ticketing SaaS + marketplace player offering cheaper organizer tools, better CRM, and AI-powered demand generation.**
 
 ---
 
