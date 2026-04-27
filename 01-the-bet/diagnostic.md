@@ -4,7 +4,7 @@
 <!-- Name the product you're diagnosing. Real product at your company — not a hypothetical. -->
 
 **Product:**
-**Head of Product:**
+**Head of Product**
 
 ---
 
